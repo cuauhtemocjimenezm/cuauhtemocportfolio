@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cuauhtémoc Jiménez — Portafolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,400;0,8..30,500;0,8..30,600;1,8..30,400;1,8..30,500&family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1C1A17;
+    --paper: #E7E1D4;
+    --card: #F3EFE4;
+    --accent: #6B2A2E;
+    --accent-soft: #86474B;
+    --muted: #746C5E;
+    --line: #C9C0AC;
+    --serif: 'Piazzolla', 'Iowan Old Style', 'Georgia', serif;
+    --sans: 'Public Sans', -apple-system, 'Segoe UI', sans-serif;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
